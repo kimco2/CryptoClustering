@@ -1,7 +1,7 @@
 # Predicting whether cryptocurrencies are affected price changes
 
 ## **Overview**
-Predicted whether cryptocurrencies    are affected by 24-hour or 7-day price changes using python and unsupervised learning.
+Predicted whether cryptocurrencies are affected by 24-hour or 7-day price changes using python and unsupervised learning to cluster cryptocurrencies with a K-means algorithm.
 
 Aspects to note:
 - Cryptocurrencies clustered with K-means algorithm
