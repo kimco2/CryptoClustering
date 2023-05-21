@@ -1,4 +1,4 @@
-# Predicting whether crypto currencies are affected price changes
+# Predicting whether cryptocurrencies are affected price changes
 
 ## **Overview**
 Predicted whether cryptocurrencies    are affected by 24-hour or 7-day price changes using python and unsupervised learning.
